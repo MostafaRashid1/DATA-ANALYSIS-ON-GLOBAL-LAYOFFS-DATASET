@@ -4,10 +4,10 @@
 This project focuses on exploring and analyzing sales data using SQL queries.
 
 ## Tools Used
-- SQL (SQLite/MySQL/PostgreSQL)
+- MySQL
 
 ## Files Included
-- `sales_analysis.sql` : Contains SQL queries for data cleaning, exploration, and insights.
+- `DATA ANALYSIS ON GLOBAL LAYOFFS DATASET` : Contains SQL queries for data cleaning, exploration, and insights.
 
 ## What I Learned
 - Writing complex SQL queries for data analysis.
