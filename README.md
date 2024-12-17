@@ -1,7 +1,7 @@
 # Project Title: Sales Data Analysis using SQL
 
 ## Description
-This project focuses on exploring and analyzing sales data using SQL queries.
+This project analyzes global layoffs data to uncover trends, patterns, and insights into job cuts across industries, companies, and countries, focusing on the impact of economic changes and industry downturns.
 
 ## Tools Used
 - MySQL
